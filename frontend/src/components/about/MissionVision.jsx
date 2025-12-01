@@ -27,7 +27,7 @@ const MissionVision = () => {
               <h3 className="text-2xl font-bold text-gray-900">Our Vision</h3>
             </div>
             <p className="text-gray-700 leading-relaxed">
-              To be the world's most trusted supplier of premium Indian oranges, recognized for quality, reliability, and innovation in agricultural exports. We envision Warud becoming the global center for premium orange exports.
+              To be the world's most trusted supplier of premium Indian oranges, recognized for quality, reliability, and innovation in agricultural exports. Mayra Fruits - making Warud the global center for premium orange exports.
             </p>
           </div>
         </div>

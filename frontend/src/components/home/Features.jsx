@@ -30,7 +30,7 @@ const Features = () => {
       <div className="container mx-auto px-4">
         <SectionTitle
           subtitle="Why Choose Us"
-          title="Your Trusted Orange Export Partner"
+          title="Why Choose Mayra Fruits"
         />
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">

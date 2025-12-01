@@ -8,10 +8,10 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <h3 className="text-white text-xl font-bold mb-4">
-              Orange<span className="text-orange-600">Export</span>
+              Mayra<span className="text-orange-600">Fruits</span>
             </h3>
             <p className="text-sm mb-4">
-              Premium Nagpur Orange exporter from Warud, delivering quality citrus fruits to global markets.
+              Mayra Fruits - Premium Nagpur oranges from Warud, delivering quality citrus fruits to global markets.
             </p>
             <div className="flex gap-4">
               <a href="#" className="hover:text-orange-600 transition-colors">

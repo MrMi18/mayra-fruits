@@ -29,7 +29,7 @@ const Timeline = () => {
     {
       year: '2025',
       title: 'Industry Leader',
-      description: 'Recognized as a leading orange exporter from the Vidarbha region',
+      description: 'Recognized as a leading orange exporter from the Vidarbha region - Mayra Fruits',
       icon: <FaTrophy className="text-2xl" />
     }
   ];

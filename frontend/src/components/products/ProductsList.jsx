@@ -24,6 +24,30 @@ const products = [
     grade: "Commercial Grade",
     packaging: "Bulk packaging available",
     imageSrc: "/images/products/warud-fresh-citrus.jpg"
+  },
+  {
+    id: 1,
+    name: "Nagpur Orange Premium",
+    description: "Handpicked, export-quality Nagpur oranges with exceptional sweetness and juiciness.",
+    grade: "A Grade",
+    packaging: "Cartons of 10kg / 15kg",
+    imageSrc: "/images/products/nagpur-orange-premium.jpg"
+  },
+  {
+    id: 2,
+    name: "Nagpur Orange Select",
+    description: "Selected top-quality oranges suitable for fresh markets and exports.",
+    grade: "Select Grade",
+    packaging: "Cartons of 10kg",
+    imageSrc: "/images/products/nagpur-orange-select.jpg"
+  },
+  {
+    id: 3,
+    name: "Warud Fresh Citrus",
+    description: "Freshly harvested oranges with excellent color and taste, ideal for bulk orders.",
+    grade: "Commercial Grade",
+    packaging: "Bulk packaging available",
+    imageSrc: "/images/products/warud-fresh-citrus.jpg"
   }
 ];
 
