@@ -1,4 +1,4 @@
-# Orange Exporter Website - Project Plan
+# Mayra Fruits - Project Plan
 
 ## Client Details
 - Name: [Client Name]

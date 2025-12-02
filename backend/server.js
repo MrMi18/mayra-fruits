@@ -22,7 +22,7 @@ app.use('/api/inquiries', require('./routes/inquiryRoutes'));
 
 // Basic route
 app.get('/', (req, res) => {
-  res.json({ message: 'Orange Exporter API is running' });
+  res.json({ message: 'Mayra Fruits API is running' });
 });
 
 // Error handling middleware
